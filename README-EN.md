@@ -17,8 +17,6 @@
     - Exit all of Vim
     - Extract files to /home/YourUserName/  **Replace all files**
 
-
-
 ## Shortcuts of Pythim
 - Sidebar:Win + &lt;F3&gt;  
 Check Python Syntax:&lt;F8&gt;  
@@ -30,11 +28,11 @@ Windows Switch:Tab
 - Compatibility (To Windows)
 - Stability
 
-# Developers
+## Developers
 - **Bi Anhua** Developer,Project Pythim Leader
 - **[Kucashu][ks]** Team Leader
 
-# Contact us
+## Contact us
 - E-mail: [admin@DroidBeta.com][em]
 - QQ Group: [277211897][qq]
 - Telegram: [Link][tg]
