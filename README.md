@@ -1,8 +1,8 @@
 # Project-Pythim Guide V1.0 - Chinese Version
 
 ## Pythim 是什么  
-- Pythim是一款由 DroidBeta Team 开发的用于Vim插件，包含多窗体，代码补全等等实用功能   
-- Pythim为Python用户提供了更加便捷的开发方法，强烈推荐用户在**Linux**运行环境下使用本插件以获得最优的用户体验
+> Pythim是一款由 DroidBeta Team 开发的用于Vim插件，包含多窗体，代码补全等等实用功能   
+> Pythim为Python用户提供了更加便捷的开发方法，强烈推荐用户在**Linux**运行环境下使用本插件以获得最优的用户体验
   
 ## Pythim 的安装
 - **~~Pythim Windows下的安装~~**  
@@ -17,15 +17,15 @@
     - 解压文件至 /home/你的用户名/  **替换所有同名文件**
 
 ## Pythim 的快捷键
-- 侧栏：Win + &lt;F3&gt;  
+> 侧栏：Win + &lt;F3&gt;  
 Python 检查语法：&lt;F8&gt;  
 语法补全自动会补全    
 窗口切换:Ctrl+ w + w  
 窗口切换:Tab
 
 ## TODO
-- 兼容性提升（针对Windows）
-- 稳定性提升
+> 兼容性提升（针对Windows）  
+> 稳定性提升
 
 ## 开发人员
 - **彼岸花** 开发者、项目主导者
