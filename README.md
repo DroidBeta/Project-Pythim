@@ -1,4 +1,6 @@
 # Project-Pythim Guide V1.0 - Chinese Version
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDroidBeta%2FProject-Pythim.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDroidBeta%2FProject-Pythim?ref=badge_shield)
+
 
 ## Pythim 是什么  
 > Pythim是一款由 DroidBeta Team 开发的用于Vim插件，包含多窗体，代码补全等等实用功能   
@@ -40,3 +42,7 @@ Python 检查语法：&lt;F8&gt;
 [em]: mailto:admin@DroidBeta.com                         "DroidBeta Team Email"
 [qq]: https://jq.qq.com/?_wv=1027&k=5F4mJyh              "DroidBeta QQ Group"
 [ks]: https://github.com/Kucashu                         "Kucashu's GitHub"
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDroidBeta%2FProject-Pythim.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDroidBeta%2FProject-Pythim?ref=badge_large)
