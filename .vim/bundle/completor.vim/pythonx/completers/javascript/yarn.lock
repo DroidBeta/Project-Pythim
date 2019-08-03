@@ -61,10 +61,9 @@ minimatch@0.2:
   dependencies:
     lru-cache "2"
     sigmund "~1.0.0"
-
-minimatch@0.3:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-0.3.0.tgz#275d8edaac4f1bb3326472089e7949c8394699dd"
+    
+minimatch@^3.0.2:
+  version "3.0.2"
   dependencies:
     lru-cache "2"
     sigmund "~1.0.0"
